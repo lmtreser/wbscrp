@@ -1,6 +1,6 @@
 # Web Scraper
 
-Web scraping es una técnica utilizada mediante programas de software para extraer información de sitios web. Usualmente, estos programas simulan la navegación de un humano en la World Wide Web ya sea utilizando el protocolo HTTP manualmente, o incrustando un navegador en una aplicación. [Wikipedia](https://es.wikipedia.org/wiki/Web_scraping)
+Web scraping es una técnica utilizada mediante programas de software para extraer información de sitios web. Usualmente, estos programas simulan la navegación de un humano en la World Wide Web ya sea utilizando el protocolo HTTP manualmente, o incrustando un navegador en una aplicación. Más en [Wikipedia](https://es.wikipedia.org/wiki/Web_scraping)
 
 Hay que tener en cuenta que este script funciona de acuerdo a la estructura de un sitio, no es una herramienta universal ya que las páginas webs están estructuradas de diferentes maneras (de acuerdo a lo que penso el programador).
 
